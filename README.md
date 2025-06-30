@@ -27,10 +27,8 @@ Each scenario includes:
 - Backend Logic
 - Database Logic
 
-##  Files Included
-- `System_Operation_UseCase_Analysis.xlsx`: Main data sheet with all 120 use cases.
-- `README.md`: Project overview and structure.
-- (Optional) `System_Operation_UseCase_Analysis.docx` or `.pdf`: Printable version.
+
+
 
 ##  Purpose
 This project is intended for:
